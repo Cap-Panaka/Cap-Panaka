@@ -18,3 +18,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Cap-Panaka&icon=0&color=1)](https://visitcount.itsvg.in)
 
+
+## 🐍 My Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Cap-Panaka/Cap-Panaka/output/github-contribution-grid-snake.svg)
+
+
