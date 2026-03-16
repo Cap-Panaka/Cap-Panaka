@@ -21,6 +21,7 @@
 
 ## 🐍 My Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/Cap-Panaka/Cap-Panaka/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Cap-Panaka/Cap-Panaka/output/github-contribution-grid-snake-dark.svg)
+
 
 
